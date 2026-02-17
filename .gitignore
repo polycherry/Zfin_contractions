@@ -1,0 +1,73 @@
+# .gitignore for MATLAB Zebrafish Contraction Analysis
+
+# MATLAB autosave files
+*.asv
+*.m~
+
+# MATLAB temporary files
+*.autosave
+
+# Excel and data files (optional - uncomment if you don't want to track data)
+# *.xlsx
+# *.xls
+# *.csv
+
+# Output figures
+*.jpg
+*.fig
+*.png
+
+# Video files (usually too large for git)
+*.avi
+*.mp4
+*.mov
+*.mpg
+*.mpeg
+
+# Raw data (optional)
+# rawdata.xlsx
+# locmatrix.xlsx
+# freq.xlsx
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MATLAB compiled files
+*.mex*
+*.p
+
+# Old/temporary RTF files
+*.rtf
+*_temp.txt
+
+# Logs and notes
+*.log
+*.txt
+
+# Directories for temporary data
+temp/
+tmp/
+scratch/
+test_data/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# Documentation build files (if using Sphinx or similar)
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.rar
