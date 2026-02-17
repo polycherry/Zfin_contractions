@@ -221,7 +221,7 @@ Contributions and suggestions are welcome! Please open an issue to discuss propo
 
 ## Contact
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/vasishtapolisetty/Zfin_contractions/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/polycherry/Zfin_contractions/issues)
 - **Email**: vasishtapolisetty@gmail.com
 
 ## License
